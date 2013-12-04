@@ -1,0 +1,11 @@
+adj
+adv
+noun
+prep
+pronoun
+verb
+
+adj + noun
+adv + adj
+adv + v
+v + n

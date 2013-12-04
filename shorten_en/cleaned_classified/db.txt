@@ -1,0 +1,7 @@
+http://stackoverflow.com/questions/1504717/why-does-comparing-strings-in-python-using-either-or-is-sometimes-produce
+http://stackoverflow.com/questions/1504717/why-does-comparing-strings-in-python-using-either-or-is-sometimes-produce
+http://stackoverflow.com/questions/1504717/why-does-comparing-strings-in-python-using-either-or-is-sometimes-produce
+http://stackoverflow.com/questions/1504717/why-does-comparing-strings-in-python-using-either-or-is-sometimes-produce
+http://stackoverflow.com/questions/625083/python-init-and-self-what-do-they-do
+http://stackoverflow.com/questions/625083/python-init-and-self-what-do-they-do
+http://stackoverflow.com/questions/625083/python-init-and-self-what-do-they-do
